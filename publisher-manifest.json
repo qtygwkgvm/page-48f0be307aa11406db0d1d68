@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1c057edf414cae5b3fc6a2d6",
+  "owner": "qtygwkgvm",
+  "repo": "page-48f0be307aa11406db0d1d68",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "48f0be307aa11406db0d1d68",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c8a5ea24dec80dfc7166e363d66b3a4c52df364b6e71d4520d7181c9e7e3c357",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云稳定VPN加速器，专业客户端下载与套餐选择。基础版、旗舰版、团队版等，助力全球网络畅行。",
+          "AI_DESCRIPTION": "大哥云稳定VPN加速器，专业客户端下载与套餐选择。基础版、旗舰版、团队版等，助力全球网络畅行。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n<style>\nbody {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif; background: #f8f5f0; color: #333; margin:0; line-height:1.7;}\nheader {background:#fff; padding:1rem 0; box-shadow:0 2px 10px rgba(0,0,0,.08);}\nnav {max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center;}\n.logo {font-size:1.8rem; color:#ff6b6b; font-weight:700;}\nnav a {color:#333; margin:0 1.5rem; text-decoration:none; font-weight:500;}\nmain {max-width:1200px; margin:0 auto; padding:2rem;}\nh1 {color:#ff6b6b; font-size:2.8rem; text-align:center; margin-bottom:2rem;}\nsection {background:#fff; margin-bottom:2rem; padding:2rem; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,.05);}\nh2 {color:#ff6b6b; border-bottom:3px solid #ff6b6b; padding-bottom:0.8rem; margin-bottom:1.5rem;}\nh3 {color:#ff6b6b; margin-top:1.5rem;}\nul, ol {padding-left:1.5rem;}\nli {margin-bottom:0.8rem;}\n.feature-list {display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:1rem;}\n.feature-list li {background:#f8f5f0; padding:1rem; border-radius:8px;}\nbutton {background:#ff6b6b; color:#fff; border:none; padding:12px 24px; border-radius:6px; cursor:pointer; font-size:1rem;}\nbutton:hover {background:#ff8a8a;}\n#plans .plan-card {border:2px solid #ff6b6b; transform:scale(1.02);}\ndetails {margin:1rem 0; border:1px solid #ddd; border-radius:6px; overflow:hidden;}\nsummary {padding:1rem; font-weight:600; background:#f8f5f0; cursor:pointer;}\nsummary:hover {background:#f0e9e0;}\nfooter {background:#333; color:#fff; text-align:center; padding:2rem; margin-top:3rem;}\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">大哥云</div>\n<nav>\n<a href=\"#intro\">简介</a>\n<a href=\"#scenarios\">场景</a>\n<a href=\"#howto\">指南</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">FAQ</a>\n</nav>\n</nav></header>\n<main>\n<h1>大哥云</h1>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>大哥云是一款专注于网络加速的VPN服务提供商。我们通过优化节点和协议，为用户带来极速稳定的连接体验。无论您是个人用户还是企业团队，我们都提供多样化的套餐方案和专业支持。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<p>大哥云适用于多种网络需求场景：</p>\n<ul>\n<li>日常浏览与社交媒体访问</li>\n<li>跨境电商与支付</li>\n<li>在线教育与远程学习</li>\n<li>国际会议与商务出行</li>\n<li>娱乐视频流媒体</li>\n</ul>\n</section>\n<section id=\"howto\">\n<h2>使用指南</h2>\n<h3>客户端选择与下载</h3>\n<p>根据您的设备和需求，选择合适的客户端进行下载。官网提供多种版本供选择。</p>\n<h3>注册与套餐激活</h3>\n<p>注册账号后，购买适合的流量套餐，激活后即可使用。</p>\n<h3>节点连接</h3>\n<p>在客户端界面选择节点并一键连接，即可享受加速。</p>\n</section>\n<section id=\"plans\">\n<h2>套餐选择</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"clients\">\n<h2>客户端选择</h2>\n{{CLIENTS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>大哥云支持哪些设备？</summary>\n<p>支持Windows、macOS、iOS、Android、Chrome等主流平台。</p>\n</details>\n<details>\n<summary>流量用完后还能继续使用吗？</summary>\n<p>可以继续使用，但速度将降至普通水平。</p>\n</details>\n<details>\n<summary>如何获取官方客户端？</summary>\n<p>请访问官网的下载页面获取最新官方客户端。</p>\n</details>\n<details>\n<summary>旗舰版有哪些优势？</summary>\n<p>旗舰版提供更高的流量额度、全节点解锁和优先支持。</p>\n</details>\n<details>\n<summary>团队版适合什么场景？</summary>\n<p>团队版适合企业用户，提供高带宽节点和专属服务。</p>\n</details>\n</section>\n</main>\n<footer>\n<p>大哥云 - 让网络畅通无阻</p>\n</footer>\n\n",
+          "hash": "3f15eacd51ebcbd3572f712046a010a991fef8b129fe2654e61633a8958e47f9",
+          "seo": {
+            "title": "大哥云 - 稳定高速VPN客户端下载",
+            "keywords": "大哥云, VPN, 加速器, 客户端下载, 机场, 大哥云官网, 流量包",
+            "description": "大哥云稳定VPN加速器，专业客户端下载与套餐选择。基础版、旗舰版、团队版等，助力全球网络畅行。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kecawnb.cn",
+    "host": "m.kecawnb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "kecawnb.cn",
+      "url": "https://kecawnb.cn/",
+      "label": "MIMEMI",
+      "apex": "kecawnb.cn",
+      "kind": null,
+      "identity": "jichangl1/page-a5340f6f5fd1c55a288e299b"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "70cd0226947e7c70061d9b27a7436bb77d0e7262318a8fed04315d7addd3fbdd",
+    "sitemap.xml": "53eb763d344948dc1495a13e3a0be37b73bf866a7e01d5cdec99a020d02c19d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a608b43aa9b061ff2d2098af2b2c78b0273458398b308115d8a822f89df5c5c6",
+    "robots.txt": "8194a6839bfb7fcdb14e54a40fef31a5f4f06250e7f18157bd24bfdef7118c27",
+    "81fa36e99e33ce8e92bd31d36a74fabe.txt": "7dda38b839d19e1bd23a8d8e8009862fcbb27beb200315e5e8805cee57595c39"
+  },
+  "revision": "589dacd8477b2b2ede0e4444523bac0074bc20bb036c8756c54e7afb82ca21ee"
+}
